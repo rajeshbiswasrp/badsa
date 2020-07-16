@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	margin:0;
+	font:normal 12px/18px Arial, Helvetica, sans-serif;
+	
+	margin-top:0px;
+}
+
+.btop
+{
+border-top:solid 1px #3A3E85;
+}
+.bbottom
+{
+border-bottom:solid 1px #333;
+}
+.bright
+{
+border-right:solid 1px #333;
+}
+.bleft
+{
+border-left:solid 1px #333;
+}
